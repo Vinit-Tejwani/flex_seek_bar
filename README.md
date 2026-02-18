@@ -1,32 +1,39 @@
 # flex_seek_bar
 
-A highly customizable Flutter seek bar plugin supporting:
+[![pub package](https://img.shields.io/pub/v/flex_seek_bar.svg)](https://pub.dev/packages/flex_seek_bar)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-- Single slider
-- Range slider (dual thumb)
-- Circular seek bar
-- Controller-based state control
-- Custom styling options
+A highly customizable Flutter seek bar plugin supporting linear, range, and circular slider types with controller-driven state updates and flexible styling options.
 
-Designed for flexibility, clean UI integration, and advanced interaction control beyond Flutter’s default Slider widgets.
+Built for developers who need more interaction control and UI flexibility than Flutter’s default slider widgets provide.
 
 ---
 
 ## ✨ Features
 
-✅ Linear Single Seek Bar  
-✅ Linear Range Seek Bar  
-✅ Circular Seek Bar  
-✅ Controller Driven Updates  
-✅ Styling Customization  
-✅ Value Labels / Units Support  
-✅ Lightweight & Flutter-native  
+* Linear Single Seek Bar
+* Linear Range Seek Bar (Dual Thumb)
+* Circular Seek Bar
+* Controller-Based Updates
+* Custom Styling Options
+* Value Labels & Units Support
+* Lightweight & Flutter Native
+
+---
+
+## 📸 Preview
+
+| Linear / Range           | Circular                 | Custom Styled            |
+| ------------------------ | ------------------------ | ------------------------ |
+| ![](images/1.png) | ![](images/2.png) | ![](images/3.png) |
+
+> Place your screenshots inside the `images/` folder in the repository root.
 
 ---
 
 ## 📦 Installation
 
-Add to your `pubspec.yaml`:
+Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
@@ -102,7 +109,7 @@ CircularSeekBar(
 
 ---
 
-### Using Controller
+### Controller Usage
 
 ```dart
 final controller = SeekBarController();
@@ -116,19 +123,24 @@ controller.reset();
 ## 🧩 Platform Support
 
 | Platform | Supported |
-|---------|----------|
-| Android | ✅ |
-| iOS | ✅ |
-| Web | ✅ |
-| macOS | ✅ |
-| Windows | ✅ |
-| Linux | ✅ |
+| -------- | --------- |
+| Android  | ✅         |
+| iOS      | ✅         |
+| Web      | ✅         |
+| macOS    | ✅         |
+| Windows  | ✅         |
+| Linux    | ✅         |
 
 ---
 
 ## 📘 Additional Information
 
-This plugin is built to provide more flexible seek bar experiences than Flutter’s default slider widgets, especially for advanced UI/UX scenarios requiring multiple slider modes or programmatic control.
+This plugin provides flexible seek bar experiences beyond Flutter’s default sliders, especially useful for advanced UI/UX scenarios involving:
+
+* Multiple slider modes
+* Circular interactions
+* Programmatic control
+* Custom styling
 
 Contributions and feedback are welcome.
 
@@ -136,12 +148,13 @@ Contributions and feedback are welcome.
 
 ## 🐞 Issues & Contributions
 
-Report issues or contribute here:
+Found a bug or want to contribute?
 
-👉 https://github.com/Vinit-Tejwani/flex_seek_bar
+GitHub Repository:
+https://github.com/Vinit-Tejwani/flex_seek_bar
 
 ---
 
 ## 📄 License
 
-MIT License
+MIT License — see the LICENSE file for details.
