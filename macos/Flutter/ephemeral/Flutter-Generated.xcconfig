@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/home/vinit/fvm/versions/3.35.7
-FLUTTER_APPLICATION_PATH=/home/vinit/Documents/flex_seek_bar
+FLUTTER_ROOT=/Users/vinit/fvm/versions/3.32.8
+FLUTTER_APPLICATION_PATH=/Users/vinit/Downloads/flex_seek_bar
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=0.0.1

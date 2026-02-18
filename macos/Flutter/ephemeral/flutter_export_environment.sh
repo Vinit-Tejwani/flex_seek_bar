@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/home/vinit/fvm/versions/3.35.7"
-export "FLUTTER_APPLICATION_PATH=/home/vinit/Documents/flex_seek_bar"
+export "FLUTTER_ROOT=/Users/vinit/fvm/versions/3.32.8"
+export "FLUTTER_APPLICATION_PATH=/Users/vinit/Downloads/flex_seek_bar"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.0.1"
