@@ -25,9 +25,8 @@ Built for developers who need more interaction control and UI flexibility than F
 
 | Linear / Range           | Circular                 | Custom Styled            |
 | ------------------------ | ------------------------ | ------------------------ |
-| ![](images/1.png) | ![](images/2.png) | ![](images/3.png) |
+| ![](https://raw.githubusercontent.com/Vinit-Tejwani/flex_seek_bar/main/images/1.png) | ![](https://raw.githubusercontent.com/Vinit-Tejwani/flex_seek_bar/main/images/2.png) | ![](https://raw.githubusercontent.com/Vinit-Tejwani/flex_seek_bar/main/images/3.png) |
 
-> Place your screenshots inside the `images/` folder in the repository root.
 
 ---
 
