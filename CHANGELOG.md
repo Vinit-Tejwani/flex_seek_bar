@@ -1,3 +1,8 @@
+## 0.0.3
+- Fixed homepage URL in pubspec.yaml
+- Replaced truncated LICENSE with full MIT license text
+- Replaced deprecated `ShowValueIndicator.always` with `ShowValueIndicator.onDrag`
+
 ## 0.0.2
 - Fixed image URLs in README to display correctly on pub.dev
 
