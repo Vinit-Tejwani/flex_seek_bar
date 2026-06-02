@@ -1,7 +1,7 @@
 name: flex_seek_bar
 description: A highly customizable Flutter seek bar plugin supporting single, range, and circular slider types with a controller.
-version: 0.0.2
-homepage: https://github.com/yourname/flex_seek_bar
+version: 0.0.3
+homepage: https://github.com/Vinit-Tejwani/flex_seek_bar
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

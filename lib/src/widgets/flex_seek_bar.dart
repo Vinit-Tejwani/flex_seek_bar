@@ -271,7 +271,7 @@ class _FlexSeekBarState extends State<FlexSeekBar> {
               const TextStyle(fontSize: 12))
           .copyWith(color: Colors.white),
       showValueIndicator: widget.showTooltip
-          ? ShowValueIndicator.always
+          ? ShowValueIndicator.onDrag
           : ShowValueIndicator.never,
     );
 
